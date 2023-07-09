@@ -1,0 +1,11 @@
+* == --- Equal to
+* != --- doesn't Equal
+* > --- Greater than
+* < --- Less than
+* >= --- Greater than or equal to
+* <= --- Less than or equal to
+* or --- Condition A or Conditon B
+* and --- Condition A and Condition B
+* contains --- contains tests for the presence of a substring within a string 
+* startswith --- tests whether a string starts with a given substring
+* endswith --- tests wheteher a string ends with a given substring
